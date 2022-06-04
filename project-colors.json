@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77dbc2cc-94d1-4b05-be67-7e5c25847527": {
+      "ProjectGuid": "77dbc2cc-94d1-4b05-be67-7e5c25847527",
+      "DisplayName": "C语言消息轰炸",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
